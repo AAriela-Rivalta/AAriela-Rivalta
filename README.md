@@ -12,7 +12,7 @@
 
 ---
 
-## 👩‍💻 Sobre mí
+## Sobre mí
 
 Soy **desarrolladora frontend** y trabajo desde noviembre de 2025 en **GoodApps**, una empresa de software de Villa del Rosario, Córdoba, Argentina. Desde febrero de 2026 integro el área de **Grandes Clientes**, donde desarrollo pantallas y componentes reutilizables y los conecto con APIs.
 
@@ -20,17 +20,17 @@ Estudio la **Tecnicatura Superior en Desarrollo de Software** y me gusta constru
 
 ---
 
-## 🚀 Qué hago
+## Qué hago
 
-- 🖥️ **Interfaces web** con React, Next.js, TypeScript y Tailwind CSS
-- 📱 **Apps mobile** con React Native
-- 🔌 **Integración con APIs REST** y manejo de datos
-- 🧩 **Componentes reutilizables** y código ordenado
-- 🤖 **IA aplicada al desarrollo:** la uso para generar código, depurar y documentar
+- **Interfaces web** con React, Next.js, TypeScript y Tailwind CSS
+- **Apps mobile** con React Native
+- **Integración con APIs REST** y manejo de datos
+- **Componentes reutilizables** y código ordenado
+- **IA aplicada al desarrollo:** la uso para generar código, depurar y documentar
 
 ---
 
-## 🛠️ Herramientas
+## Herramientas
 
 **Frontend y mobile**
 
@@ -58,15 +58,15 @@ Estudio la **Tecnicatura Superior en Desarrollo de Software** y me gusta constru
 
 ---
 
-## 🎓 Formación y certificaciones
+## Formación y certificaciones
 
-- 🎓 **Tecnicatura Superior en Desarrollo de Software**: Instituto Superior Villa del Rosario (2024 – 2026)
-- 📜 **Ultimate JavaScript: de cero a programador experto**: Udemy, 13 h (noviembre 2025)
-- 📜 **IA: De 0 a Agentes**: BIG School, 6 h (junio 2026)
+- **Tecnicatura Superior en Desarrollo de Software**: Instituto Superior Villa del Rosario (2024 – 2026)
+- **Ultimate JavaScript: de cero a programador experto**: Udemy, 13 h (noviembre 2025)
+- **IA: De 0 a Agentes**: BIG School, 6 h (junio 2026)
 
 ---
 
-## 🤝 Habilidades blandas
+## Habilidades blandas
 
 ![Trabajo en equipo](https://img.shields.io/badge/Trabajo_en_equipo-1E3A4C?style=flat-square)
 ![Comunicación](https://img.shields.io/badge/Comunicación-1E3A4C?style=flat-square)
@@ -74,37 +74,36 @@ Estudio la **Tecnicatura Superior en Desarrollo de Software** y me gusta constru
 ![Resolución de problemas](https://img.shields.io/badge/Resolución_de_problemas-1E3A4C?style=flat-square)
 ![Gestión del tiempo](https://img.shields.io/badge/Gestión_del_tiempo-1E3A4C?style=flat-square)
 
-## 🌎 Idiomas
+## Idiomas
 
 Español (nativo) · Inglés (intermedio, B1/B2)
 
 ---
 
-## 📌 Proyectos destacados
+## Proyectos destacados
 
-### 🔹 CuidApp: sistema de gestión médica
+### CuidApp: sistema de gestión médica
 Plataforma para administrar la atención médica, con distintos roles de usuario (administrador, médicos y pacientes).
 
-- 👥 **Gestión de usuarios y pacientes**, con registro completo e historial médico
-- 📅 **Turnos:** sistema de citas médicas
-- 🩺 **Historia clínica** y seguimiento médico
-- 🧪 **Estudios médicos:** gestión de análisis y estudios
-- 🧾 **Facturación** integrada
-- 📊 **Dashboard** con estadísticas
+- **Gestión de usuarios y pacientes**, con registro completo e historial médico
+- **Turnos:** sistema de citas médicas
+- **Historia clínica** y seguimiento médico
+- **Estudios médicos:** gestión de análisis y estudios
+- **Facturación** integrada
+- **Dashboard** con estadísticas
 
-👉 [Ver repositorio](https://github.com/EstefaniaRoggero/CuidApp)
+ [Ver repositorio](https://github.com/EstefaniaRoggero/CuidApp)
 
-### 🔹 Refugio Conectado: plataforma para refugios de animales
+### Refugio Conectado: plataforma para refugios de animales
 Plataforma web para refugios y adopción responsable, que conecta adoptantes, donantes y voluntarios con las distintas sedes de un mismo refugio.
 
-- ⚙️ **Detector de urgencia automático:** genera alertas por mascotas con muchos días sin adopción (90 y 180 días), esterilización sin registrar y vacunas o controles vencidos o próximos
-- 🤖 **Asistente de IA (Luna)** que recomienda mascotas en un chat
-- 🔳 **Código QR por mascota** con enlace a su ficha pública, descargable para carteles
-- 🐶 **Catálogo de mascotas** con filtros, favoritos, historial médico y solicitud de adopción
-- 📊 **Panel de administración por sede**, con métricas, gestión de mascotas, solicitudes, donaciones y voluntarios
-- 🌙 Modo oscuro y diseño responsive
+- **Detector de urgencia automático:** genera alertas por mascotas con muchos días sin adopción (90 y 180 días), esterilización sin registrar y vacunas o controles vencidos o próximos
+- **Asistente de IA (Luna)** que recomienda mascotas en un chat
+- **Código QR por mascota** con enlace a su ficha pública, descargable para carteles
+- **Catálogo de mascotas** con filtros, favoritos, historial médico y solicitud de adopción
+- **Panel de administración por sede**, con métricas, gestión de mascotas, solicitudes, donaciones y voluntarios
 
-👉 [Ver repositorio](https://github.com/EstefaniaRoggero/Refugio_Conectado)
+ [Ver repositorio](https://github.com/EstefaniaRoggero/Refugio_Conectado)
 
 ---
 
