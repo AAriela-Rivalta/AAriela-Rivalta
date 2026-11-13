@@ -92,7 +92,7 @@ Plataforma para administrar la atención médica, con distintos roles de usuario
 - **Facturación** integrada
 - **Dashboard** con estadísticas
 
- [Ver repositorio](https://github.com/EstefaniaRoggero/CuidApp)
+[Ver repositorio](https://github.com/AAriela-Rivalta/CuidApp)
 
 ### Refugio Conectado: plataforma para refugios de animales
 Plataforma web para refugios y adopción responsable, que conecta adoptantes, donantes y voluntarios con las distintas sedes de un mismo refugio.
@@ -102,8 +102,9 @@ Plataforma web para refugios y adopción responsable, que conecta adoptantes, do
 - **Código QR por mascota** con enlace a su ficha pública, descargable para carteles
 - **Catálogo de mascotas** con filtros, favoritos, historial médico y solicitud de adopción
 - **Panel de administración por sede**, con métricas, gestión de mascotas, solicitudes, donaciones y voluntarios
+- Modo oscuro y diseño responsive
 
- [Ver repositorio](https://github.com/EstefaniaRoggero/Refugio_Conectado)
+[Ver repositorio](https://github.com/AAriela-Rivalta/Refugio_Conectado)
 
 ---
 
