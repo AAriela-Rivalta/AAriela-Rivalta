@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=1E3A4C&height=200&section=header&text=Ariela%20Rivalta&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Desarrolladora%20Frontend&descSize=22&descAlignY=62&descColor=2A9D8F" width="100%" alt="Ariela Rivalta - Desarrolladora Frontend" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2A9D8F&center=true&vCenter=true&width=640&lines=Desarrolladora+Frontend+en+GoodApps;React+%7C+React+Native+%7C+TypeScript+%7C+Next.js;Interfaces+claras%2C+funcionales+y+bien+cuidadas" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2A9D8F&center=true&vCenter=true&width=640&lines=Desarrolladora+Frontend;React+%7C+React+Native+%7C+TypeScript+%7C+Next.js;Interfaces+claras%2C+funcionales+y+bien+cuidadas" alt="Typing SVG" />
 </p>
 
 <p align="center">
