@@ -5,9 +5,9 @@
 </p>
 
 <p align="center">
+  <a href="https://portfolioariela-rivalta.vercel.app"><img src="https://img.shields.io/badge/Portfolio-2A9D8F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/ariela-rivalta-6a880b270/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:ariela.rivalta.ts@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-2A9D8F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
 </p>
 
 ---
@@ -17,6 +17,8 @@
 Soy **desarrolladora frontend** y trabajo desde noviembre de 2025 en **GoodApps**, una empresa de software de Villa del Rosario, Córdoba, Argentina. Desde febrero de 2026 integro el área de **Grandes Clientes**, donde desarrollo pantallas y componentes reutilizables y los conecto con APIs.
 
 Estudio la **Tecnicatura Superior en Desarrollo de Software** y me gusta construir interfaces claras, funcionales y cuidadas, tanto para web como para mobile.
+
+🌐 **Mi portfolio:** [portfolioariela-rivalta.vercel.app](https://portfolioariela-rivalta.vercel.app)
 
 ---
 
@@ -45,6 +47,7 @@ Estudio la **Tecnicatura Superior en Desarrollo de Software** y me gusta constru
 
 **Backend y datos**
 
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
@@ -80,34 +83,59 @@ Español (nativo) · Inglés (intermedio, B1/B2)
 
 ---
 
-
-
 ## 📌 Proyectos destacados
 
-### 🔹 CuidApp: sistema de gestión médica
-Plataforma para administrar la atención médica, con roles de administrador, médicos y pacientes. Esta es la versión pública, sin datos sensibles.
+> Más detalles, capturas y demos en mi [portfolio](https://portfolioariela-rivalta.vercel.app).
 
-- 👥 Gestión de usuarios y pacientes, con historial médico
-- 📅 Turnos y historia clínica
-- 🧪 Estudios médicos y facturación
-- 📊 Dashboard con estadísticas
+### 🔹 CuidApp: sistema de gestión médica
+Aplicación web para consultorios y clínicas ambulatorias, con roles de administrador, médicos y pacientes, cada uno con su propio panel. Proyecto en equipo. Esta es la versión pública, sin datos sensibles.
+
+- 👥 Usuarios y pacientes con historial médico
+- 📅 Turnos e historia clínica
+- 🧪 Estudios médicos y facturación con PDF
+- 📊 Dashboard con estadísticas y reportes
+- 🎥 Consultas por videollamada (telemedicina)
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white)
 
 👉 [Ver repositorio](https://github.com/AAriela-Rivalta/CuidApp-public)
 
 ### 🔹 Refugio Conectado: plataforma para refugios y adopción responsable
-Plataforma web que conecta adoptantes, donantes y voluntarios con las distintas sedes de un refugio.
+Plataforma web que conecta adoptantes, donantes y voluntarios con las distintas sedes de un refugio, con un panel de administración por sede y un asistente de IA (Luna). Proyecto en equipo.
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+👉 [Ver repositorio](https://github.com/EstefaniaRoggero/Refugio-Conectado) · [Ver demo](https://refugio-conectado.vercel.app)
 
 **⚙️ Automatización: Recomendador Inteligente de Mascotas**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 Proceso en Node.js que recomienda mascotas según el perfil de cada adoptante, sin tener que revisar una por una a mano.
+
 - Motor de compatibilidad por reglas, explicable y determinístico
 - Ranking opcional con IA (Groq), con respaldo automático por reglas
 - Informes en Markdown y JSON para todos los perfiles en un solo paso
 - Modo conversación con Luna y 29 pruebas automáticas
 
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+
 👉 [Ver automatización](https://github.com/EstefaniaRoggero/Recomendador-Inteligente-de-mascotas)
-👉 [Ver plataforma completa](https://github.com/EstefaniaRoggero/Refugio-Conectado)
+
+### 🔹 Figuritas Mundial 2026: app móvil
+App para completar el álbum del Mundial sin perder la cuenta: progreso por selección, marcado de figuritas obtenidas y faltantes, contador de repetidas, búsqueda rápida y listas para compartir. Funciona sin conexión.
+
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+👉 [Ver repositorio](https://github.com/AAriela-Rivalta/Figuritas_Mundial)
 
 ---
 
