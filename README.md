@@ -80,31 +80,34 @@ Español (nativo) · Inglés (intermedio, B1/B2)
 
 ---
 
-## Proyectos destacados
 
-### CuidApp: sistema de gestión médica
-Plataforma para administrar la atención médica, con distintos roles de usuario (administrador, médicos y pacientes).
 
-- **Gestión de usuarios y pacientes**, con registro completo e historial médico
-- **Turnos:** sistema de citas médicas
-- **Historia clínica** y seguimiento médico
-- **Estudios médicos:** gestión de análisis y estudios
-- **Facturación** integrada
-- **Dashboard** con estadísticas
+## 📌 Proyectos destacados
 
-[Ver repositorio](https://github.com/AAriela-Rivalta/CuidApp)
+### 🔹 CuidApp: sistema de gestión médica
+Plataforma para administrar la atención médica, con roles de administrador, médicos y pacientes. Esta es la versión pública, sin datos sensibles.
 
-### Refugio Conectado: plataforma para refugios de animales
-Plataforma web para refugios y adopción responsable, que conecta adoptantes, donantes y voluntarios con las distintas sedes de un mismo refugio.
+- 👥 Gestión de usuarios y pacientes, con historial médico
+- 📅 Turnos y historia clínica
+- 🧪 Estudios médicos y facturación
+- 📊 Dashboard con estadísticas
 
-- **Detector de urgencia automático:** genera alertas por mascotas con muchos días sin adopción (90 y 180 días), esterilización sin registrar y vacunas o controles vencidos o próximos
-- **Asistente de IA (Luna)** que recomienda mascotas en un chat
-- **Código QR por mascota** con enlace a su ficha pública, descargable para carteles
-- **Catálogo de mascotas** con filtros, favoritos, historial médico y solicitud de adopción
-- **Panel de administración por sede**, con métricas, gestión de mascotas, solicitudes, donaciones y voluntarios
-- Modo oscuro y diseño responsive
+👉 [Ver repositorio](https://github.com/AAriela-Rivalta/CuidApp-public)
 
-[Ver repositorio](https://github.com/AAriela-Rivalta/Refugio_Conectado)
+### 🔹 Refugio Conectado: plataforma para refugios y adopción responsable
+Plataforma web que conecta adoptantes, donantes y voluntarios con las distintas sedes de un refugio.
+
+**⚙️ Automatización: Recomendador Inteligente de Mascotas**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+Proceso en Node.js que recomienda mascotas según el perfil de cada adoptante, sin tener que revisar una por una a mano.
+- Motor de compatibilidad por reglas, explicable y determinístico
+- Ranking opcional con IA (Groq), con respaldo automático por reglas
+- Informes en Markdown y JSON para todos los perfiles en un solo paso
+- Modo conversación con Luna y 29 pruebas automáticas
+
+👉 [Ver automatización](https://github.com/EstefaniaRoggero/Recomendador-Inteligente-de-mascotas)
+👉 [Ver plataforma completa](https://github.com/EstefaniaRoggero/Refugio-Conectado)
 
 ---
 
